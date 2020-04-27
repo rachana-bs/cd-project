@@ -1,4 +1,3 @@
 # cd-project
-Compiler Design mini project on implementation of lex and yacc
+Compiler Design mini project on implementation of parser using lex and yacc tools
 
-The project has been implemented both with C library and lex and yacc tools.
